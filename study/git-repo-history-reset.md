@@ -45,3 +45,6 @@ git remote add origin <YOUR_REPOSITORY_URL>
 # This will permanently overwrite the history on GitHub.
 git push --force origin main
 ```
+<sub>작성자: Neuemuziek
+날짜: 2025-10-20
+목적: GitHub 저장소 커밋 기록 초기화 스터디 기록용</sub>
