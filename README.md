@@ -6,9 +6,11 @@ a place to record my **daily logs, study notes, and project journals**.
 ---
 
 ## 📁 Structure
-- `daily/` — daily work logs & retrospectives  
-- `study/` — study notes & tutorials  
-- `projects/` — project-related notes and experiment summaries  
+- `daily/` — daily work logs & retrospectives
+- `projects/` — project-related notes and experiment summaries
+- `research/` — general research topics and findings
+- `stable_diffusion/` — notes related to Stable Diffusion
+- `study/` — study notes & tutorials
 
 ---
 
