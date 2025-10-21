@@ -4,7 +4,7 @@
 
 | Topic | Description |
 |:------|:-----------|
-| [FluxGuidance Pipeline](./fluxguidance-pipeline.md) | Comparison of text and ControlNet conditioning workflows. |
+| [FluxGuidance Pipeline](/stablediffusion/fluxguidance-pipeline.md) | Comparison of text and ControlNet conditioning workflows. |
 | [ControlNet Architecture](./controlnet-architecture.md) | Detailed architecture and operational analysis of ControlNet. |
 | [Sampler Comparison](./sampler-comparison.md) | Comparative study of diffusion samplers and experiment results. |
 
